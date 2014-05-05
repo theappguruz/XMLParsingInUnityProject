@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Thu May 01 12:23:46 GMT+05:30 2014 -->
+<Players>
+  <Player id="1">
+    <name>Player1</name>
+    <score>10</score>
+  </Player>
+  <Player id="2">
+    <name>Player2</name>
+    <score>20</score>
+  </Player>
+  <Player id="3">
+    <name>Player3</name>
+    <score>30</score>
+  </Player>
+  <Player id="4">
+    <name>Player4</name>
+    <score>40</score>
+  </Player>
+  <Player id="5">
+    <name>Player5</name>
+    <score>50</score>
+  </Player>
+</Players>
